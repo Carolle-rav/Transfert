@@ -1,0 +1,2 @@
+localhost:---:9090:---:D:\lolah\Sockets\Slave_socket\Slave_1
+localhost:---:1010:---:D:\lolah\Sockets\Slave_socket\Slave_2
